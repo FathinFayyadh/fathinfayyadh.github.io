@@ -1,0 +1,30 @@
+:root{
+    --light-blue :#09B3B0;
+    --yellow :#FF9F00;
+    --bludark:#07292F;
+    --withe:#ffff;
+    /* font */
+    
+}
+
+
+body{
+    font-family: 'Handlee', cursive;
+font-family: 'Poppins', sans-serif;
+font-family: 'Shippori Mincho', serif;
+font-family: 'Solitreo', cursive;
+
+}
+.img-konten{
+    background: url(/img/IMAGEKONTEN\ 1.png) 100% 70% ;
+background-repeat: no-repeat;   
+background-size: cover;
+height: 550px;
+}
+.img-brand{
+    width: 200px;
+    height: 60px;
+}
+.nav-konten{
+    background: transparent;
+}

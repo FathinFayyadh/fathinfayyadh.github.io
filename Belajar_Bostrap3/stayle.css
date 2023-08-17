@@ -1,0 +1,33 @@
+body{
+    font-family: 'Handlee', cursive;
+
+}
+
+.jumbotron{
+    padding-top : 6rem ;
+  
+    background-image: url(/img/IMAGEKONTEN\ 1.png);
+    background-size: cover; 
+}
+:root{
+    --light-blue :#09B3B0;
+    --yellow :#FF9F00;
+    --bludark:#07292F;
+    --withe:#ffff;
+    /* font */
+     --fwbold:700;
+     --fwextrabold:800;
+     --fwmedium:500;
+     --fwsemibold:600;
+     --fwregular:400;
+     --fwlight:300;
+
+    
+}
+.img-brand{
+        width: 200px;
+        height: 60px;
+}
+.bg-info{
+    background-color: var(--light-blue);
+}
